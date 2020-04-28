@@ -1,0 +1,15 @@
+.side-drawer {
+   
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    height: 120vh;
+    width: 20%;
+    background:white;
+    background-image: url(PT.png);
+    background-repeat: no-repeat;
+    background-size: 250px 210px;
+    background-position-x: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}

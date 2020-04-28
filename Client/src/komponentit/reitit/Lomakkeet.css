@@ -1,0 +1,87 @@
+.test {
+    
+   opacity: 1;
+    height: 50vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index:3;
+   
+    display: grid;
+    grid-template-columns:repeat(4, 1fr);
+    grid-gap: 1em;
+    padding: 2em
+    
+  
+    
+    
+}
+
+.hairiocss {
+  margin-top: 3px;
+  padding:103px;
+  height:545px;
+  width: 363px;
+  margin: auto;
+}
+
+.linjacss {
+  margin-top:3px;
+  padding:103px;
+  height:545px;
+  width: 363px;
+}
+
+.tyovuorotcss {
+
+  padding-top: 10px;
+  margin-top: 3px;
+  padding:103px;
+  height:545px;
+  width: 363px;
+  
+}
+
+.tuotteetcss {
+
+  margin-top: 3px;
+  padding:103px;
+  height:545px;
+  width: 363px;
+}
+
+
+
+.vahhairiocss {
+  
+  margin-top: 3px;
+  padding:103px;
+  height:545px;
+  width: 363px;
+}
+
+.vahlinjacss {
+
+  margin-top: 3px;
+  padding:103px;
+  height:545px;
+  width: 363px;
+}
+
+.vahtyovuorotcss {
+
+  margin-top: 3px;
+  padding:103px;
+  height:545px;
+  width: 363px;
+}
+
+.vahtuotteetcss {
+  margin-top: 3px;
+  padding:103px;
+  height:545px;
+  width: 363px;
+}
+
+

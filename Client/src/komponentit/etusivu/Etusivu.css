@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans+Condensed:300&display=swap');
+
+.otsikko {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+      url(original.jpg) center
+        center/cover no-repeat;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 100px;
+    font-style: uppercase;
+    color: white;
+    letter-spacing: 0.3rem;
+   
+    
+
+    
+  }
+  
+  @media screen and (min-width: 0px) and (max-width: 320px) {
+    .otsikko {
+     
+      font-size: 30px;
+    }
+    }
+    @media screen and (min-width: 321px) and (max-width: 768px) {
+    .otsikko {
+     
+      font-size: 45px;
+    }
+    }
+    @media screen and (min-width: 769px) {
+    .otsikko{
+      font-size: 100;
+    }
+    }
+
+ 
+  /* .MuiTypography-h1 {
+    color:black;
+  } */

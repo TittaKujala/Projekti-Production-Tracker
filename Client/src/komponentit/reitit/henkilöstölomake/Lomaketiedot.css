@@ -1,0 +1,62 @@
+.testi {
+   
+    background:
+      url(big.jpg) center
+        center/cover no-repeat;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 3;
+    padding-top: 6.5rem;
+    padding-bottom: 20px;
+  
+  }
+
+  .vahvistus {
+   
+    background: 
+      url(big.jpg) center
+        center/cover no-repeat;
+    height: 130vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 3;
+    padding-top: 10.5rem;
+    padding-bottom: 5rem;
+ 
+   
+  }
+
+  .lomakelahetetty a {
+   
+    background: 
+      url(big.jpg) center
+        center/cover no-repeat;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 3;
+    padding-top: 5rem;
+    text-decoration-line: none;
+    
+  }
+
+  
+
+  
+  
+
+ 
+
+ 
+
+
+
+
+

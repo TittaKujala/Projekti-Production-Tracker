@@ -1,0 +1,3 @@
+aja npm install
+
+lisää .env-tiedostoon omat postgreSQL-tunnuksesi ja salasanasi

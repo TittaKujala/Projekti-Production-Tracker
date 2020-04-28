@@ -1,0 +1,44 @@
+.koko {
+
+    background-color: white;
+        height: 101.8vh;
+}
+
+.tilastot1 {
+
+padding-top: 10px;
+margin-top: 90px;
+margin-left: 230px;
+display: flex;
+z-index:3;
+position: relative;
+height: 350px;
+
+}
+
+.tilastot2 {
+    
+    margin-left: 230px;
+    /* padding-bottom: 100px; */
+    padding-right: 200px;
+    display: flex;
+    z-index:3;
+    position: relative;
+    height: 350px;
+   
+    
+}
+
+.tilastot3 {
+
+margin-left: 25px;
+padding-top: 0px;
+
+}
+
+.tilastot4 {
+
+    margin-left: 25px;
+    /* padding-top: 0px; */
+    
+    }

@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Open+Sans+Condensed:300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@100&family=Londrina+Outline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+
+.main-navigation__menu-btn {
+    width: 0rem;
+    height: 4rem;
+    background: transparent;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 2rem;
+    cursor: pointer;
+    
+  
+  }
+  
+  .main-navigation__menu-btn span {
+    display: block;
+    width: 4rem;
+    height: 3px;
+    background: white;
+   
+  }
+  
+  .main-navigation__title {
+    color: white;
+    margin: auto;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+    font-size:55px;
+  }
+  
+  .main-navigation__title a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .main-navigation__header-nav {
+    display: none;
+  }
+  
+  .main-navigation__drawer-nav {
+    height: 100%;
+  }
+  
+  @media (min-width: 3000px) {
+    .main-navigation__menu-btn {
+      display:right;
+
+    }
+  
+    .main-navigation__header-nav {
+      display: block;
+    }
+  }
