@@ -8,6 +8,8 @@ Server: Node.js Express
 
 Tietokanta: PostgreSQL, tietokannan luontiin tarvittavat SQL-lauseet serverillä.
 
+Ohjelmointikieli: JavaScript
+
 Sovellus tuotannon kehittämisen välineeksi, kohde: tuotantoteollisuus. 
 
 Lomakkeilla kerättävien tuotannon tietojen perusteella muodostetaan visuaalinen piirakkadiagrammi, 
